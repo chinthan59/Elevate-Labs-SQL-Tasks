@@ -16,3 +16,10 @@ Extract data from one or more tables. <br>
 2.Apply WHERE, AND, OR, LIKE, BETWEEN <br>
 3.Sort with ORDER BY <br>
 Task3.sql has all these queries for extracting data form a table. <br>
+
+# **Task4**
+Performing Aggregate functions.<br>
+1.Using GROUP BY and HAVING.<br>
+2.Use MIN,MAX,AVG,COUNT,SUM.<br>
+3.Go through the Task4.sql, run queries in order to create a new DB, create a table and populate it with values.<br>
+4.Then perform aggregate functions.<br>
