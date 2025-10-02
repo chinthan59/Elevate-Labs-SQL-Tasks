@@ -23,3 +23,18 @@ Performing Aggregate functions.<br>
 2.Use MIN,MAX,AVG,COUNT,SUM.<br>
 3.Go through the Task4.sql, run queries in order to create a new DB, create a table and populate it with values.<br>
 4.Then perform aggregate functions.<br>
+
+# **Task5** 
+This task demonstrates the use of different types of SQL joins (INNER, LEFT, RIGHT, CROSS, and FULL OUTER via UNION) on the Customers and Orders tables.<br>  
+It helps understand how to combine data across tables and handle matching/non-matching records.<br>  
+
+# **Task6**
+This task demonstrates different types of subqueries (scalar, correlated, `IN`, `EXISTS`, and `=`) using an E-commerce database with Customers, Orders, and Products tables.<br>  
+The queries extract insights such as highest spending customer, orders above customer average, high-value customers, and most expensive product category.<br>
+
+# **Task7**  
+This project demonstrates the use of **SQL Views** to simplify reporting and enhance security in an e-commerce database.<br> 
+**CustomerOrderSummary** provides total orders and spending per customer.<br>  
+**HighValueCustomers** shows only customers with spending above ₹5000, ensuring controlled access to sensitive data.<br>  
+
+
