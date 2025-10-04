@@ -35,6 +35,11 @@ The queries extract insights such as highest spending customer, orders above cus
 # **Task7**  
 This project demonstrates the use of **SQL Views** to simplify reporting and enhance security in an e-commerce database.<br> 
 **CustomerOrderSummary** provides total orders and spending per customer.<br>  
-**HighValueCustomers** shows only customers with spending above ₹5000, ensuring controlled access to sensitive data.<br>  
+**HighValueCustomers** shows only customers with spending above ₹5000, ensuring controlled access to sensitive data.<br>
+
+# **Task8**
+This SQL project demonstrates the use of stored procedures and user-defined functions in an e-commerce database.<br>
+The procedure GetCustomerOrders retrieves all orders for a customer with conditional logic.<br>
+The function GetTotalSpent returns the total amount spent by a given customer.<br>
 
 
